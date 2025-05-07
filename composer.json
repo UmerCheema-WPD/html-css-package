@@ -1,0 +1,14 @@
+{
+  "name": "KarobarITSolutions/html-css-package",
+  "description": "A simple package with HTML and CSS",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "src/index.html",
+      "src/styles.css"
+    ]
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
